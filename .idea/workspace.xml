@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98355e9-9f2f-41e1-b425-735b574afa86" name="Changes" comment="Developper commit 2">
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-    </list>
+    <list default="true" id="a98355e9-9f2f-41e1-b425-735b574afa86" name="Changes" comment="Developper commit 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682499170827</updated>
       <workItem from="1682499170829" duration="700000" />
-      <workItem from="1682501361381" duration="1557000" />
+      <workItem from="1682501361381" duration="1870000" />
     </task>
     <task id="LOCAL-00001" summary="Developper commit">
       <created>1682501799747</created>
@@ -67,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682502306652</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Developper commit 3">
+      <created>1682503042371</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682503042371</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Developper commit" />
     <MESSAGE value="Developper commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Developper commit 2" />
+    <MESSAGE value="Developper commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Developper commit 3" />
   </component>
 </project>
