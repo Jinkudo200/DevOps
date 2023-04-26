@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98355e9-9f2f-41e1-b425-735b574afa86" name="Changes" comment="Developper commit 3" />
+    <list default="true" id="a98355e9-9f2f-41e1-b425-735b574afa86" name="Changes" comment="Commit To Rebase">
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682499170827</updated>
       <workItem from="1682499170829" duration="700000" />
-      <workItem from="1682501361381" duration="1870000" />
+      <workItem from="1682501361381" duration="2779000" />
     </task>
     <task id="LOCAL-00001" summary="Developper commit">
       <created>1682501799747</created>
@@ -72,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682503042371</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit To Rebase">
+      <created>1682503572219</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682503572219</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit To Rebase">
+      <created>1682503633594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682503633594</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +109,7 @@
     <MESSAGE value="Developper commit" />
     <MESSAGE value="Developper commit 2" />
     <MESSAGE value="Developper commit 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Developper commit 3" />
+    <MESSAGE value="Commit To Rebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit To Rebase" />
   </component>
 </project>
