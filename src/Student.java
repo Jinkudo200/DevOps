@@ -5,4 +5,5 @@ public class Student {
   private String password;
   private String emailAddress;
   private String phoneNumber;
+  private String name;
 }
