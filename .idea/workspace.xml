@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98355e9-9f2f-41e1-b425-735b574afa86" name="Changes" comment="Developper commit">
+    <list default="true" id="a98355e9-9f2f-41e1-b425-735b574afa86" name="Changes" comment="Developper commit 2">
       <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682499170827</updated>
       <workItem from="1682499170829" duration="700000" />
-      <workItem from="1682501361381" duration="926000" />
+      <workItem from="1682501361381" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="Developper commit">
       <created>1682501799747</created>
@@ -60,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682501799747</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Developper commit 2">
+      <created>1682502306652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682502306652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Developper commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Developper commit" />
+    <MESSAGE value="Developper commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Developper commit 2" />
   </component>
 </project>
